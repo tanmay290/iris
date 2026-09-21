@@ -1,0 +1,4 @@
+stremlit
+joblib
+numpy
+scikit-learn
